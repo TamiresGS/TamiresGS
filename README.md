@@ -1,6 +1,5 @@
 ### Bem vindes! Sou Tamires Guimarães 👋
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=TamiresGS&show_icons=true&count_private=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamiresGS&exclude_repo=cem_clipnet&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
